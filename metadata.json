@@ -1,0 +1,21 @@
+{
+"name": "Sandperch",
+"symbol": "SP",
+"description": "Sandperch (SP) is a community-driven meme token inspired by the sandperch fish and the unexplored places of nature.",
+"image": "https://raw.githubusercontent.com/lollipupi/sandperch/main/Sandperch_SP_512x512_under99KB.png",
+"external_url": "https://github.com/lollipupi/sandperch",
+"attributes": [
+{
+"trait_type": "Type",
+"value": "Meme Token"
+},
+{
+"trait_type": "Network",
+"value": "Solana"
+},
+{
+"trait_type": "Community",
+"value": "Community Driven"
+}
+]
+}
